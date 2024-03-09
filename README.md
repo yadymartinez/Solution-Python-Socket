@@ -13,7 +13,7 @@ Client-Server Solution in python with socket.
 It's the Server start file.
 This file needs configuration 
    ### Server Configuration
-``python:
+```python:
 server_address = (host, port) 
 logging.basicConfig(level=logging.DEBUG, filename= logfile_serverpath)
 ```  
